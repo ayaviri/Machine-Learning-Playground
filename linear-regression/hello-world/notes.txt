@@ -1,0 +1,21 @@
+what do i want this program to accomplish ?
+given the training data, i want to come up with a 
+linear model. this requires an slope and a y intercept, 
+m and b values respectively. i also want to calculate the 
+error of this linear model on the training data. with this 
+calculated linear model, i then want to apply it to the 
+test data and calculate the error. i also want visualizations
+of both the training data and the test data with and without the linear model
+
+wishlist: 
+- visualizations: 
+    - training data:
+        - with model
+        - without model
+    - test data: 
+        - with model
+        - without model
+- models:
+    - linear equation (slope and y-intercept)
+- statistical measures: 
+    - error: of linear model on test data
